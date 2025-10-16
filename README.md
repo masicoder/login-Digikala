@@ -27,5 +27,4 @@
    cd <نام پوشه پروژه>
    npm install
    npm run dev
-   git clone <آدرس مخزن>
-   cd <نام پوشه پروژه>
+ 
