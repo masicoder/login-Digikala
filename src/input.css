@@ -1,0 +1,23 @@
+/* @import "tailwindcss"; */
+
+
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* یا به صورت کامل‌تر */
+@theme {
+  /* تنظیمات دلخواه */
+}
+
+@layer base {
+  /* استایل‌های پایه */
+}
+
+@layer components {
+  /* کامپوننت‌های سفارشی */
+}
+
+@layer utilities {
+  /* utility های سفارشی */
+}
